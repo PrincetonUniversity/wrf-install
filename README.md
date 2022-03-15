@@ -11,6 +11,7 @@
 - copy the file `intel-mpi-env.sh` below and execute it to set up the
   environment
   ```
+  wget https://raw.githubusercontent.com/PrincetonUniversity/wrf-install/main/intel-mpi-env.sh
   chmod u+x intel-mpi-env.sh
   source intel-mpi-env.sh
   ```
