@@ -1,11 +1,11 @@
-# Installing version WRF 4.1.2
+# Installing version WRF 4.3.3
 - download source code 
   ```
-  wget https://github.com/wrf-model/WRF/archive/refs/tags/v4.1.2.tar.gz
+  wget https://github.com/wrf-model/WRF/archive/refs/tags/v4.3.3.tar.gz
   ```
 - prepare the sources
   ```
-  tar xf v4.1.2.tar.gz
+  tar xf v4.3.3.tar.gz
   cd WRF-4.3.3
   ```
 - copy the file `intel-mpi-env.sh` below and execute it to set up the
